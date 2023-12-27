@@ -9,7 +9,7 @@
 
 ## About me
 
-I am a guy who enjoys solving problems, finding and fixing bugs, helping others with programming and playing video games.
+I am a guy who enjoys solving problems, finding and fixing bugs and helping others with programming.
 
 I ocassionally post about coding on [LinkedIn](https://www.linkedin.com/in/abrar-ahmed-b7a471242/).  
 
