@@ -1,4 +1,32 @@
-### Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+## About me
+
+I am a guy who enjoys solving problems, finding and fixing bugs, helping others with programming and playing video games.
+
+I ocassionally post about coding on [LinkedIn](https://www.linkedin.com/in/abrar-ahmed-b7a471242/).  
+
+
+## Things I am passionate about
+
+- Web Developing 
+- AI 
+- Game Developing
+
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Web related things and tech in general on [LinkedIn](https://www.linkedin.com/in/abrar-ahmed-b7a471242/).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/abrar-ahmed-b7a471242/)
+- And of course GitHub you're already on (Recursion).
+
 
 <!--
 **AbrarAhmed111/AbrarAhmed111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
