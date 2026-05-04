@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abrar Ahmed</h1>
 
-<h3 align="center">Full Stack Engineer | Product Engineer | Frontend Team Lead</h3>
+<h3 align="center">Full Stack Engineer | Product Engineer</h3>
 
 <p align="center">
   <a href="mailto:abrarahmedishere@gmail.com">
@@ -18,9 +18,9 @@
 
 ## About Me
 
-I am a Full Stack Engineer with 3+ years of experience building and leading production-ready web applications using Next.js, React, Node.js, FastAPI, and modern cloud-backed tools. My work spans eCommerce websites, SaaS platforms, CRMs, AI-integrated products, MVPs, and custom full-stack applications for clients across Pakistan, the USA, UK, UAE, and other regions.
+I am a Full Stack Engineer with years of experience building and leading production-ready web applications using Next.js, React, Node.js, FastAPI, and modern cloud-backed tools. My work spans eCommerce websites, SaaS platforms, CRMs, AI-integrated products, MVPs, and custom full-stack applications for clients across Pakistan, the USA, UK, UAE, and other regions.
 
-I have led frontend and development teams, managed client meetings, planned product architecture, reviewed code, mentored developers, and delivered projects from discovery to deployment. Alongside engineering, I enjoy helping other developers grow and have mentored 16+ people in web development.
+I have led development teams, managed client meetings, planned product architecture, reviewed code, mentored developers, and delivered projects from discovery to deployment. Alongside engineering, I enjoy helping other developers grow and have mentored 16+ people in web development.
 
 ## What I Do
 
@@ -49,19 +49,12 @@ I have led frontend and development teams, managed client meetings, planned prod
   <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,postgres,firebase" alt="Database and platform skills" />
 </p>
 
-### Tools & Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" alt="Tools and deployment skills" />
-</p>
 
 ## Experience Highlights
 
-- 70+ websites and web applications delivered through freelance, agency, and remote product work.
-- Led a team of 6 frontend developers to rebuild a cryptocurrency exchange interface from static HTML into a dynamic React application.
-- Managed complete product development at Nizam LLC as the sole full-stack engineer across frontend, backend, and database layers.
-- Built and delivered 20+ websites with React, Next.js, TypeScript, Tailwind, Bootstrap, Redux, and API integrations.
-- Mentored 16+ web developers and helped multiple students secure internships and jobs.
+- 99+ websites and web applications delivered through freelance, agency, and remote product work.
+- Mentored 16+ engineers and helped multiple students secure internships and jobs.
 
 ## Featured Work
 
