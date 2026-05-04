@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/abrar-ahmed-b7a471242/">
     <img src="https://img.shields.io/badge/LinkedIn-Abrar%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AbrarAhmed111&style=for-the-badge&color=0e75b6" alt="Profile views" />
+
 </p>
 
 <p align="center">
