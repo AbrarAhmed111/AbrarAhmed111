@@ -56,18 +56,6 @@ I have led development teams, managed client meetings, planned product architect
 - 99+ websites and web applications delivered through freelance, agency, and remote product work.
 - Mentored 16+ engineers and helped multiple students secure internships and jobs.
 
-## Featured Work
-
-- [Nizam](https://nizam.co/)
-- [MortgageHackr](https://www.mortgagehackr.net/)
-- [BUYCEX](https://buycex.vercel.app/)
-- [DeepVerify](https://www.deepverify.net/)
-- [DeepVerify App](https://app.deepverify.net/)
-- [PromptGraphy](https://www.promptgraphy.ai/)
-- [Vibanc Marketplace](https://marketplace.vibanc.com/)
-- [Impost AI](https://impost-ai-fe.vercel.app/)
-- [Signature Generator](https://signature-generator-orpin.vercel.app/)
-
 ## Connect With Me
 
 I am always open to discussing full-stack products, SaaS ideas, frontend architecture, freelance collaboration, and product engineering opportunities.
