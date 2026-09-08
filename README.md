@@ -59,10 +59,8 @@ As these projects continue to grow, the DevAbby name and logo will increasingly 
 
 ### AI & Agentic AI
 
-AI / LLM Engineering, Agentic AI, and Generative AI.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" alt="Retrieval-Augmented Generation" />
