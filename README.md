@@ -2,6 +2,8 @@
 
 <h3 align="center">Full Stack Engineer | Product Engineer</h3>
 
+<p align="center"><strong>Building under the personal developer identity — DevAbby.</strong></p>
+
 <p align="center">
   <a href="mailto:abrarahmedishere@gmail.com">
     <img src="https://img.shields.io/badge/Email-abrarahmedishere%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -21,6 +23,18 @@
 I am a Full Stack Engineer with years of experience building and leading production-ready web applications using Next.js, React, Node.js, FastAPI, and modern cloud-backed tools. My work spans eCommerce websites, SaaS platforms, CRMs, AI-integrated products, MVPs, and custom full-stack applications for clients across Pakistan, the USA, UK, UAE, and other regions.
 
 I have led development teams, managed client meetings, planned product architecture, reviewed code, mentored developers, and delivered projects from discovery to deployment. Alongside engineering, I enjoy helping other developers grow and have mentored 16+ people in web development.
+
+## DevAbby — My Developer Identity
+
+DevAbby is my personal developer identity and the recognizable signature behind the software I build. It represents my work across full-stack web applications, SaaS products, eCommerce platforms, business systems, AI-powered applications, dashboards, APIs, integrations, custom software, personal projects, and open-source work.
+
+As these projects continue to grow, the DevAbby name and logo will increasingly appear on the applications and websites I build, connecting them back to me: Abrar Ahmed.
+
+[![DevAbby](https://www.abrarahmed.pro/assets/devAbby-fulllogo-C9-MX7QK.png)](https://www.abrarahmed.pro/)
+
+**Remember the name. Remember the logo.**
+
+**Built by DevAbby.**
 
 ## What I Do
 
@@ -68,3 +82,5 @@ I am always open to discussing full-stack products, SaaS ideas, frontend archite
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abrar Ahmed on LinkedIn" />
   </a>
 </p>
+
+**Built by [![DevAbby](https://www.abrarahmed.pro/assets/devAbby-fulllogo-C9-MX7QK.png)](https://www.abrarahmed.pro/assets/devAbby-fulllogo-C9-MX7QK.png)**
