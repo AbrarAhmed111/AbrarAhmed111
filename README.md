@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  I build scalable web products from idea to production, with hands-on experience across frontend, backend, databases, deployments, client communication, and team leadership.
+  I build scalable web products and AI-powered applications from idea to production, with hands-on experience across frontend, backend, databases, AI/LLM integration, deployments, client communication, and team leadership.
 </p>
 
 ## About Me
@@ -40,7 +40,7 @@ As these projects continue to grow, the DevAbby name and logo will increasingly 
 
 - Build full-stack products with clean UI, scalable APIs, and reliable database design.
 - Lead frontend and development teams through planning, execution, reviews, and delivery.
-- Convert business ideas into production-ready SaaS, marketplace, CRM, and AI-powered platforms.
+- Convert business ideas into production-ready SaaS, marketplace, CRM, AI-powered, and LLM-integrated platforms with agentic workflows and RAG-based features.
 - Deliver responsive, SEO-friendly, and performance-focused websites and web apps.
 
 ## Skills & Tech Stack
@@ -55,6 +55,23 @@ As these projects continue to grow, the DevAbby name and logo will increasingly 
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nextjs,fastapi,python" alt="Backend skills" />
+</p>
+
+### AI & Agentic AI
+
+AI / LLM Engineering, Agentic AI, and Generative AI.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Vectorless%20RAG-4B5563?style=for-the-badge" alt="Vectorless RAG" />
+  <img src="https://img.shields.io/badge/LLMs-4B5563?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4B5563?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-4B5563?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Guardrails-4B5563?style=for-the-badge" alt="AI Guardrails" />
+  <img src="https://img.shields.io/badge/LLM%20Evals-4B5563?style=for-the-badge" alt="LLM Evaluation and Evals" />
 </p>
 
 ### Databases & Platforms
@@ -82,5 +99,3 @@ I am always open to discussing full-stack products, SaaS ideas, frontend archite
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abrar Ahmed on LinkedIn" />
   </a>
 </p>
-
-**Built by [![DevAbby](https://www.abrarahmed.pro/assets/devAbby-fulllogo-C9-MX7QK.png)](https://www.abrarahmed.pro/assets/devAbby-fulllogo-C9-MX7QK.png)**
